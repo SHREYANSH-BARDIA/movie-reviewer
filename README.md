@@ -25,7 +25,7 @@ Python3
 - Tensorflow
 - Keras
 
-## Dashboard Creation
+## Dashboard Creation:
 
 - matlplotlib
 - mpld3
