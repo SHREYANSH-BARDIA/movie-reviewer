@@ -31,4 +31,10 @@ Python3
 - mpld3
 
 
+# Files:
+
+- Data Collection:  
+For making a deep learning model, I randomly selected 100 movies and scraped about 250 reviews of them in this file. 
+
+- 
 
